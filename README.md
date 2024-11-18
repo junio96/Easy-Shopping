@@ -7,7 +7,10 @@
 <br>
   <p>-HTML</p>
   <p>-CSS</p>
-  <p>Este projeto tambem foi desenvolvido com foco em uma experiência de usuário otimizada, aplicando técnicas de responsividade para 
-     garantir uma boa usabilidade em diferentes dispositivos e tamanhos de tela.</p>
+ 
 
 <img src="https://github.com/junio96/Easy-Shopping/blob/main/assets/projeto.desktop.png.png?raw=true">
+<br>
+ <p>Este projeto tambem foi desenvolvido com foco em uma experiência de usuário otimizada, aplicando técnicas de responsividade para 
+     garantir uma boa usabilidade em diferentes dispositivos e tamanhos de tela.</p>
+<img src="https://github.com/junio96/Easy-Shopping/blob/main/assets/projeto.mobile.png.png?raw=true">
